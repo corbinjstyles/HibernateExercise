@@ -1,0 +1,4 @@
+net\javaguides\hibernate\entity\Student.class
+net\javaguides\hibernate\App.class
+net\javaguides\hibernate\CRUDOperations.class
+net\javaguides\hibernate\util\JPAUtil.class
